@@ -1,0 +1,13 @@
+{
+    "name": "zhouqiang/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhouqiang",
+            "email": "62687565@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
